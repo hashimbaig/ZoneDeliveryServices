@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738622218575",
+    "project_id": "zone-delivery-services",
+    "storage_bucket": "zone-delivery-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738622218575:android:5157172b8dd37c15c2e53a",
+        "android_client_info": {
+          "package_name": "com.example.zonedeliveryservicestask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7WFYqGA1ubrFDuwmnpxiYONhPH4YiDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
